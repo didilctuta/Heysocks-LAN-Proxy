@@ -33,7 +33,7 @@ Ubuntu 安装和操作方法见 `HeysocksLanProxy.Client.Ubuntu/README-ubuntu24.
 
 将发布文件夹打包为独立附件上传：
 
-1. `Heysocks局域网代理-v1.3-win-x64.zip`：内含 Windows 服务端、客户端及说明文件。
+1. `Heysocks-LAN-Proxy-v1.3.0-win-x64.zip`：内含 Windows 服务端、客户端及说明文件。
 2. `heysocks-lan-proxy-client_1.3.0_all.deb`：Ubuntu 24.04 客户端安装包。
 3. `Heysocks-LAN-Proxy-source-v1.3.0.zip`：Windows 与 Ubuntu 客户端源码及构建文件。
 

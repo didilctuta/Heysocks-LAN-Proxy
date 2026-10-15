@@ -10,8 +10,8 @@ Heysocks 局域网代理是 **Heysocks Windows 桌面 VPN 客户端的配套扩�
 
 | 发布包 | 包含内容 | 适用场景 |
 | --- | --- | --- |
-| `Heysocks局域网代理-v1.3-win-x64` | Windows x64 服务端和客户端 | 在安装并运行 Heysocks 的 Windows 电脑上启动服务端；其他 Windows 设备使用客户端连接 |
-| `release-ubuntu24.04` | Ubuntu 24.04 LTS 客户端 `.deb` | Ubuntu 设备作为局域网客户端，连接运行 Windows 服务端的电脑 |
+| [Windows x64 完整包](https://github.com/didilctuta/Heysocks-LAN-Proxy/releases/download/v1.3.0/Heysocks-LAN-Proxy-v1.3.0-win-x64.zip) | Windows x64 服务端和客户端 | 在安装并运行 Heysocks 的 Windows 电脑上启动服务端；其他 Windows 设备使用客户端连接 |
+| [Ubuntu 24.04 客户端](https://github.com/didilctuta/Heysocks-LAN-Proxy/releases/download/v1.3.0/heysocks-lan-proxy-client_1.3.0_all.deb) | Ubuntu 24.04 LTS 客户端 `.deb` | Ubuntu 设备作为局域网客户端，连接运行 Windows 服务端的电脑 |
 
 Ubuntu 包**只有客户端**，不包含也不提供代理服务器。使用前必须在同一局域网中准备一台已连接 Heysocks 的 Windows 服务器，并在 Ubuntu 客户端中填写该服务器的局域网 IP 和服务端口（默认 `8080`）。
 
@@ -24,7 +24,7 @@ Ubuntu 包**只有客户端**，不包含也不提供代理服务器。使用前
 
 ## Ubuntu 24.04 使用
 
-安装 `release-ubuntu24.04/heysocks-lan-proxy-client_1.3.0_all.deb`：
+安装下载的 `heysocks-lan-proxy-client_1.3.0_all.deb`：
 
 ```bash
 sudo apt install ./heysocks-lan-proxy-client_1.3.0_all.deb
