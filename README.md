@@ -6,6 +6,8 @@ Heysocks 局域网代理是 **Heysocks Windows 桌面 VPN 客户端的配套扩�
 
 ## 发布包
 
+[下载 v1.3.0 发布包](https://github.com/didilctuta/Heysocks-LAN-Proxy/releases/tag/v1.3.0)
+
 | 发布包 | 包含内容 | 适用场景 |
 | --- | --- | --- |
 | `Heysocks局域网代理-v1.3-win-x64` | Windows x64 服务端和客户端 | 在安装并运行 Heysocks 的 Windows 电脑上启动服务端；其他 Windows 设备使用客户端连接 |
