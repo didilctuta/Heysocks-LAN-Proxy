@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HeysocksLanProxy.Core/HeysocksLanProxy.Core.csproj" />
+  <Project Path="HeysocksLanProxy.Server/HeysocksLanProxy.Server.csproj" />
+  <Project Path="HeysocksLanProxy.Client/HeysocksLanProxy.Client.csproj" />
+  <Project Path="HeysocksLanProxy.SmokeTests/HeysocksLanProxy.SmokeTests.csproj" />
+</Solution>

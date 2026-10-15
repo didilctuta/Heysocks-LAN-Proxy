@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/bin/python3 /usr/lib/heysocks-lan-proxy-client/heysocks_client.py "$@"

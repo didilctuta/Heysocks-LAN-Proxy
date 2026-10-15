@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <AssemblyName>HeysocksLanProxy.SmokeTests</AssemblyName>
+    <RootNamespace>HeysocksLanProxy.SmokeTests</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HeysocksLanProxy.Core\HeysocksLanProxy.Core.csproj" />
+    <ProjectReference Include="..\HeysocksLanProxy.Client\HeysocksLanProxy.Client.csproj" />
+  </ItemGroup>
+</Project>

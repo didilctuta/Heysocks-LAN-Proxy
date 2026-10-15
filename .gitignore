@@ -1,0 +1,13 @@
+bin/
+obj/
+dist/
+release-v*/
+Heysocks局域网代理-*.zip
+*.user
+*.suo
+
+__pycache__/
+*.py[cod]
+.tmp/
+release-ubuntu24.04/
+Heysocks局域网代理-v1.3-win-x64.zip

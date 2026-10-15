@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Heysocks 局域网客户端
+Comment=连接局域网 Heysocks HTTP/HTTPS 代理服务器
+Exec=heysocks-lan-proxy-client
+Icon=heysocks-lan-proxy
+Terminal=false
+Type=Application
+Categories=Network;Utility;
+Keywords=Heysocks;Proxy;LAN;代理;
+StartupNotify=true

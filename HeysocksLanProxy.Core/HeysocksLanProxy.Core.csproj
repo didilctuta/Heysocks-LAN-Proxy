@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>HeysocksLanProxy.Core</AssemblyName>
+    <RootNamespace>HeysocksLanProxy.Core</RootNamespace>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+</Project>
